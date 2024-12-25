@@ -67,6 +67,8 @@ import logout_icon from './logout_icon.png'
 import app_store from './app_store.png'
 import Play_store from './Play_store.png'
 
+import parcel_icon from './parcel_icon.png'
+
 export const assets = {
     add_icon_green,
     add_icon_white,
@@ -89,6 +91,8 @@ export const assets = {
 
     app_store,
     Play_store,
+
+    parcel_icon,
 
 
 };
